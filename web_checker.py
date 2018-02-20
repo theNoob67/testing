@@ -1,4 +1,4 @@
-iport urllib2
+import urllib2
 import requests
 def search():
      web=raw_input("insert web site(without www.,ex:google.co.id,youtube.com):")
